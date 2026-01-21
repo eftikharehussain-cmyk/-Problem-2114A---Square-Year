@@ -1,1 +1,0 @@
-# -Problem-2114A---Square-Year
